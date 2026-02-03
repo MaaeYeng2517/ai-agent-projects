@@ -10,12 +10,11 @@ export default function Home() {
   return (
     <section className="space-y-10">
       <h1 className="text-5xl font-bold">
-        Build. Scale. Engineer.
+        Maae2517 Content WebBlogs
       </h1>
 
       <p className="text-xl text-gray-600 max-w-2xl">
-        บล็อกเชิงวิศวกรรมสำหรับนักพัฒนาและ System Architect
-        เน้นเทคนิคขั้นสูง + โค้ดจริง + Production mindset
+        รู้เรียน เทคโนโลยีใหม่ ๆ  ทันสมัย 
       </p>
 
       <div className="flex gap-4">

@@ -8,8 +8,12 @@ export default function Navbar() {
         <Link href="/posts">Posts</Link>
         <Link href="/blogs">Blogs</Link>
         <Link href="/projects">Projects</Link>
+         <Link href="/sponsor">Sponsor</Link>
         <Link href="/about">About</Link>
         <Link href="/contact">Contact</Link>
+
+        <Link href="/login">Login</Link>
+<Link href="/register">Register</Link>
       </div>
     </nav>
   )

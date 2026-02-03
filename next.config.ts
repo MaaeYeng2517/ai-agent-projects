@@ -4,5 +4,9 @@ module.exports = {
   },
   images: {
     formats: ["image/avif", "image/webp"]
-  }
+  },
+    pageExtensions: ['ts', 'tsx', 'mdx']
 }
+
+
+
